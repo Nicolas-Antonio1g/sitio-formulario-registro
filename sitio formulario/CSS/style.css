@@ -1,0 +1,43 @@
+
+h2 {
+  text-align: center;
+  color: #DDE6ED;
+  font-size: 2.2em;
+}
+
+
+#Formulario {
+  width: 55%; 
+  margin: auto; 
+  border: 1px solid #ccc; 
+  padding: 20px; 
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.15); 
+  background-color: #1a1d21; 
+  color: #DDE6ED; 
+  border-radius: 10px;
+}
+
+body {
+  background-color: #1c2128;
+}
+.submitBtn {
+  width: 50%;
+  background: #92e3d8c4;
+  border: none;
+  padding: 12px;
+  color: black;
+  margin: 16px auto;
+  font-size: 16px;
+  display: block;
+  border-radius: 5px;
+}
+
+.validation-message {
+  border: 2px solid #28a745; 
+  padding: 20px; 
+  color: #28a745; 
+  font-size: 2.5em; 
+  text-align: center; 
+}
+
+
